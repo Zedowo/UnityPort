@@ -10,7 +10,7 @@ Few Things to Note:
 3) Many scripts in the project are unused and for testing purposes only. Same can be said for some of the objects in the game.
 
 In the current state of the project, it can:
-A) Drive by just moving a ultrasonic sensor, while also adjusting speed.
-B) Turn a full 360 degrees by twisting the knob on the potentiometer.
-C) Change back and forth (the car is constantly moving in one direction) using the A and S keys.
-D) Detect collisions and display said collisions.
+1) Drive by just moving a ultrasonic sensor, while also adjusting speed.
+2) Turn a full 360 degrees by twisting the knob on the potentiometer.
+3) Change back and forth (the car is constantly moving in one direction) using the A and S keys.
+4) Detect collisions and display said collisions.
