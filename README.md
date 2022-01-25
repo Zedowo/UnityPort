@@ -9,7 +9,7 @@ Few Things to Note:
 2) Documentation of designs and testing procedures exist in the google drive for the project. This drive is not provided here.
 3) Many scripts in the project are unused and for testing purposes only. Same can be said for some of the objects in the game.
 
-In the current state of the project, it can
+In the current state of the project, it can:
 A) Drive by just moving a ultrasonic sensor, while also adjusting speed.
 B) Turn a full 360 degrees by twisting the knob on the potentiometer.
 C) Change back and forth (the car is constantly moving in one direction) using the A and S keys.
